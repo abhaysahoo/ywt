@@ -12,7 +12,7 @@ This a T-shirt mockup design application ThreeJS, a powerful 3D graphics library
 
 Load your image on the 3D t-shirt or ask AI (Dalle API from openAI) to generate a logo or a pattern to apply on the 3D t-shirt model. Once you are happy, download the 3D t-shirt model image.
 
-2. ⚙️ [Tech Stack](#tech-stack)
+## <a name="tech-stack">⚙️ Tech Stack</a>
 
 * TailwindCSS
 * ThreeJS
